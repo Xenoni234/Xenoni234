@@ -16,11 +16,10 @@
   </a>
 </p>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=3&section=header" width="100%" />
 
 ### 🌐 GLOBAL INFRASTRUCTURE MAP
-<sub>Real-time contribution grid</sub>
+<sub>Real-time contribution grid — runs daily via GitHub Actions</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xenoni234/Xenoni234/output/github-contribution-grid-snake-dark.svg" />
@@ -28,7 +27,7 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Xenoni234/Xenoni234/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=3&section=header" width="100%" />
 
 <table>
   <tr>
@@ -60,29 +59,33 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=3&section=header" width="100%" />
 
 ### 📊 REAL-TIME TELEMETRY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xenoni234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&ring_color=00F0FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xenoni234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&count_private=true&include_all_commits=true" width="48%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenoni234&theme=tokyonight&hide_border=true&background=0D1117&fire=00F0FF&ring=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Xenoni234&theme=tokyonight&hide_border=true&background=0D1117&fire=00F0FF&ring=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=C9D1D9" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenoni234&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" width="40%" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=3&section=header" width="100%" />
+
 ### 📈 ACTIVITY GRAPH
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xenoni234&theme=react-dark&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&area_color=00F0FF&hide_border=true" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=3&section=header" width="100%" />
 
 ### 🏆 SYSTEM ACHIEVEMENTS
 
 <img src="https://github-profile-trophy.vercel.app/?username=Xenoni234&theme=matrix&no-frame=true&row=1&column=7&margin-w=10" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=3&section=header" width="100%" />
 
 ### 📡 ESTABLISH SECURE CONNECTION
 
