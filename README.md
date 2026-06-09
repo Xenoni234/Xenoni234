@@ -8,18 +8,17 @@
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Xenoni234&label=SYSTEM+PINGS&color=00F0FF&style=for-the-badge" alt="Views" />
-  &nbsp;
-  <a href="https://github.com/Xenoni234?tab=followers">
-    <img src="https://img.shields.io/github/followers/Xenoni234?label=NODE+CONNECTIONS&style=for-the-badge&color=282a36" alt="Followers" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Xenoni234&label=SYSTEM+PINGS&color=00F0FF&style=for-the-badge" />
+&nbsp;
+<a href="https://github.com/Xenoni234?tab=followers">
+  <img src="https://img.shields.io/github/followers/Xenoni234?label=NODE+CONNECTIONS&style=for-the-badge&color=282a36" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=3&section=header" width="100%" />
+<br/><br/>
 
-### 🌐 GLOBAL INFRASTRUCTURE MAP
-<sub>Real-time contribution grid — runs daily via GitHub Actions</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=2" width="100%" />
+
+### 🌐 CONTRIBUTION GRID
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xenoni234/Xenoni234/output/github-contribution-grid-snake-dark.svg" />
@@ -27,22 +26,19 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Xenoni234/Xenoni234/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=2" width="100%" />
 
 <table>
   <tr>
     <td align="center" width="50%">
       <h3>🛠️ CORE TECHNOLOGIES</h3>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nextjs,react,html,css&perline=4" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,java,py,c,cpp&perline=4" />
-        </a>
-      </p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nextjs,react,html,css&perline=4" />
+      </a>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,java,py,c,cpp&perline=4" />
+      </a>
     </td>
     <td align="center" width="50%">
       <h3>⚙️ CURRENT OPERATIONS</h3>
@@ -59,47 +55,40 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=2" width="100%" />
 
-### 📊 REAL-TIME TELEMETRY
+### 📊 STATS & STREAKS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xenoni234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&count_private=true&include_all_commits=true" width="48%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Xenoni234&theme=tokyonight&hide_border=true&background=0D1117&fire=00F0FF&ring=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=C9D1D9" width="48%" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=Xenoni234&theme=tokyonight&hide_border=true&background=0D1117&fire=00F0FF&ring=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=C9D1D9&stroke=00F0FF" width="70%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenoni234&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" width="40%" />
-</p>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=3&section=header" width="100%" />
+![](https://img.shields.io/badge/TypeScript-Expert-00F0FF?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117)
+![](https://img.shields.io/badge/Node.js-Expert-00F0FF?style=flat-square&logo=node.js&logoColor=white&labelColor=0D1117)
+![](https://img.shields.io/badge/React-Advanced-00F0FF?style=flat-square&logo=react&logoColor=white&labelColor=0D1117)
+![](https://img.shields.io/badge/Docker-Advanced-00F0FF?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117)
+![](https://img.shields.io/badge/PostgreSQL-Advanced-00F0FF?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
+![](https://img.shields.io/badge/Redis-Advanced-00F0FF?style=flat-square&logo=redis&logoColor=white&labelColor=0D1117)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=2" width="100%" />
 
 ### 📈 ACTIVITY GRAPH
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xenoni234&theme=react-dark&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&area_color=00F0FF&hide_border=true" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=3&section=header" width="100%" />
-
-### 🏆 SYSTEM ACHIEVEMENTS
-
-<img src="https://github-profile-trophy.vercel.app/?username=Xenoni234&theme=matrix&no-frame=true&row=1&column=7&margin-w=10" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=2" width="100%" />
 
 ### 📡 ESTABLISH SECURE CONNECTION
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gyaneshwar-jha-22b211377/">
-    <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:gyaneshwarofficial2021@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/gyaneshwar-jha-22b211377/">
+  <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+&nbsp;
+<a href="mailto:gyaneshwarofficial2021@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00F0FF&height=120&section=footer" width="100%" />
 
