@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 SYSTEM ARCHITECTURE INITIALIZED
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=SYSTEM%20ARCHITECTURE&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=Gyaneshwar+Jha+%7C+Systems+Architect;AI-Assisted+Development+Specialist;Building+Highly+Scalable+Infrastructures;Technical+Product+Manager" alt="Typing SVG" />
@@ -56,10 +56,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xenoni234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenoni234&theme=tokyonight&hide_border=true&background=0D1117&fire=00F0FF&ring=00F0FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenoni234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" width="50%" />
 </p>
 
 ---
