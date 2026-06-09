@@ -93,3 +93,38 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00F0FF&height=120&section=footer" width="100%" />
 
 </div>
+
+
+<div align="left">
+
+<h3>🧠 THE ARCHITECT</h3>
+<p><b>Gyaneshwar Jha</b><br>
+Systems Architect | Technical Product Manager</p>
+
+<p>Currently engineering the future of chess at <a href="https://kamathchess.com"><b>Kamath Chess Academy</b></a>.</p>
+
+<p><b>📍 Based in:</b> Mumbai, India<br>
+<b>♟️ FIDE Chess ELO:</b> 1510 (Std) / 1448 (Rapid)</p>
+
+<hr>
+
+<h3>🚀 LIVE PROJECTS</h3>
+<ul>
+  <li><a href="https://code.tcetcercd.in/"><b>TCET Code Studio</b></a><br>
+  <i>Production-ready grading engine (Restricted Login).</i></li>
+  <li><b>StockSync</b><br>
+  <i>Solo micro-inventory solution.</i></li>
+</ul>
+
+<hr>
+
+<h3>💻 CURRENT TECH STACK</h3>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nextjs,react,html,css,postgres,docker,linux" width="200" />
+
+<hr>
+
+<h3>🔗 NETWORK</h3>
+<a href="https://www.linkedin.com/in/gyaneshwar-jha-22b211377/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:gyaneshwarofficial2021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
